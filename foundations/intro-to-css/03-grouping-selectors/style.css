@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.hero {
+    background-color: black;
+    color: white;
+}
+
+.zero {
+    background-color: yellow;
+
+}
+
+.hero,
+.zero {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
